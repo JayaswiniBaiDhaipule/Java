@@ -60,6 +60,14 @@ public class Seventhclass {
             System.out.println("Strings are not equal");
         }
 
+        // Substring 
+
+        String sentence = "My name is Tony";
+        String names = sentence.substring(11,sentence.length());
+        System.out.println(names);
+
+
+        // Strings are Immutable
 
         // Ṣtrings are objects in Java
 
