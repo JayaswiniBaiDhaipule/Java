@@ -1,0 +1,7 @@
+Firstclass -- Intro, function,object
+Secondclass -- print,variables,output,input
+Thirdclass -- conditional statements,swich case
+Fourthclass -- Loops -- for loop,while loop,do while loop
+Fivethclass -- funtion/methods
+Sixthclass -- Arrays & 2D Arrays
+           -- Arrays by (Kunal Kushwaha Youtube)
